@@ -25,7 +25,7 @@ There are many things that we could do to improve SmartStock.
 3) We could also incorporate factors like economic growth/recession, inflation rates, and overall trends in the stock market (ie. using the Dow Jones index) to create an even better prediction of the stock market. This would also allow the user to gain even more insight into future trends and predictions in stock prices.
 4) One thing we were not able to figure out is how to fix the Graphical User Interface. If the two bugs that we were not able to solve are fixed, then it could drastically improve the quality of our application and the visual aesthetics.
 
-##Modules Used in the project
+## Modules Used in the project
 numpy, 
 pandas,
 matplotlib.pyplot,
