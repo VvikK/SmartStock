@@ -33,4 +33,4 @@ yfinance,
 statsmodels.tsa.seasonal,
 pylab,
 scipy.optimize,
-math,
+math.
